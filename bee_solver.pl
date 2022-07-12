@@ -12,7 +12,7 @@ use autodie;
 my $search_string = $ARGV[0];
 my $must_include = substr $search_string, 3, 1;
 my $flag;
-my $filename = 'ENABLE.txt'; #be sure to change to name of your dictionary
+my $filename = 'enable.txt'; #be sure to change to name of your dictionary
 open (my $fh, '<', $filename);
 
 while (my $line = <$fh>) {
