@@ -1,11 +1,11 @@
 # bee_solver.pl -- A program to solve NY Times word game "spelling bee"
 ### Author: Ray47
 ### Rev 0.9
+### 12Jul2022
 ## For development I used a clone of the NY Times game "freebee"
 ## It can be found at https://freebee.fun
 ## The solver requires a dictionary listing of English words.
-## Fortunatly freebee uses an open source dictionary and provides a link to
-## where it can be downloaded:
+## Fortunatly freebee uses an open source dictionary and provides a link to where it can be downloaded:
 ## http://www.bananagrammer.com/2013/12/the-amazing-enable-word-list-project.html
 # To run the solver:
 ## At the command line: $ perl bee_solver.pl 'ewihtda'
