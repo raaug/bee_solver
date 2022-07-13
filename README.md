@@ -1,5 +1,5 @@
 # bee_solver.pl -- A program to solve NY Times word game "spelling bee"
-### Author: Ray47
+### Author: Raaug
 ### Rev 0.9
 ### 12Jul2022
 ## For development I used a clone of the NY Times game "freebee"
