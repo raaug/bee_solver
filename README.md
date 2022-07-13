@@ -15,3 +15,4 @@
 ## The program dumps it's output to the STDOUT (standard output).
 ## The 7 character string are the 7 letters specified by the game.
 ## Note that the 4th character must be the central character of the game board.
+#### No warranty is implied. The number of correct answers is dependant on the dictionary that is used and the correct application of the search string.

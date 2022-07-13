@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Solver for NY Times Spelling Bee type games.
-# Author Ray47
+# Author Raaug
 # 2022/01/12
 #
 
