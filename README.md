@@ -10,7 +10,7 @@
 # To run the solver:
 ## At the command line: $ perl bee_solver.pl 'ewihtda'
 ## Or modify the permissions to allow execution of the perl script.
-### $ chmod +x bee_solver.pl
+### $ chmod u+x bee_solver.pl
 ### $ ./bee_solver 'ewihtda'
 ## The program dumps it's output to the STDOUT (standard output).
 ## The 7 character string are the 7 letters specified by the game.
